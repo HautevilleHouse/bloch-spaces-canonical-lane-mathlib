@@ -1,0 +1,12 @@
+import HautevilleHouse.BlochSpacesCanonicalLaneLean.BlochAdmissibleClass
+import HautevilleHouse.BlochSpacesCanonicalLaneLean.BlochBridgeLemmas
+import HautevilleHouse.BlochSpacesCanonicalLaneLean.BlochGateLemmas
+import HautevilleHouse.BlochSpacesCanonicalLaneLean.BlochFinalTheorem
+
+namespace HautevilleHouse
+namespace BlochSpacesCanonicalLaneLean
+
+-- This module is the root of the BlochSpacesCanonicalLaneLean Lean proof package.
+
+end BlochSpacesCanonicalLaneLean
+end HautevilleHouse
